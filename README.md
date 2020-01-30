@@ -1,4 +1,4 @@
-# Projet, en cours de rédaction !
+# _ * _ Projet, en cours de rédaction ! _ * _ 
 
 # MQTT-Capt_Humidite_Plantes
 Capteur d'humidité des sols de plante. Transfert des données à Domoticz, via MQTT
