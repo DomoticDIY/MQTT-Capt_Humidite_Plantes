@@ -1,5 +1,3 @@
-# _ * _ Projet, en cours de rédaction ! _ * _ 
-
 # MQTT-Capt_Humidite_Plantes
 Capteur d'humidité des sols de plante. Transfert des données à Domoticz, via MQTT
 
@@ -47,4 +45,4 @@ Adaptation pour reconnaissance dans Domoticz :
 Dans le fichier PubSubClient.h : La valeur du paramètre doit être augmentée à 512 octets. Cette définition se trouve à la ligne 26 du fichier, sinon cela ne fonctionne pas avec Domoticz
 
 ## Tuto vidéo
-Vidéo explicative sur YouTube :
+Vidéo explicative sur YouTube : https://youtu.be/_O1ubdDx38c
