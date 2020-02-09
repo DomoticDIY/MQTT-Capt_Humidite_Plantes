@@ -3,7 +3,7 @@ Capteur d'humidité des sols de plante. Transfert des données à Domoticz, via 
 
 But : Remonter les informations d'humidité de la terre d'une plante, et transfèrer l'information à Domoticz via MQTT.
 
-Voici comment créer un capteur de tempèrature et d'himidité, à l'aide d'un module DHT11, support d'un ESP8266, et envoyant les informations au format JSON par protocole MQTT. L'intéret est de récupérer ces informations de température et humidité dans un outils domotique. Dans l'exemple de la vidéo, nous nous appuieront sur Domoticz.
+Voici comment créer un capteur d'himidité, à l'aide d'un ESP8266 type WEMOS, et envoyer les informations au format JSON par protocole MQTT. L'intéret est de récupérer ces informations dans un outils domotique, puis de créer une alerte utilisateur lorsque la plante à besoin d'être arrosée.
 
 Partie logiciel necessaire : 
 - Driver USB CH340G : https://wiki.wemos.cc/downloads 
